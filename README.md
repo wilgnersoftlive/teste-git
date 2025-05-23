@@ -1,1 +1,1 @@
-consertando essa frases
+Alex quer saber como faz cherry-pick
